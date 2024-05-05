@@ -1,0 +1,16 @@
+C:\Users\PC-LIFE\Desktop\ResturantManagementSystem\Resturant Management System\Resturant Management System\bin\Debug\Resturant Management System.exe.config
+C:\Users\PC-LIFE\Desktop\ResturantManagementSystem\Resturant Management System\Resturant Management System\bin\Debug\Resturant Management System.exe
+C:\Users\PC-LIFE\Desktop\ResturantManagementSystem\Resturant Management System\Resturant Management System\bin\Debug\Resturant Management System.pdb
+C:\Users\PC-LIFE\Desktop\ResturantManagementSystem\Resturant Management System\Resturant Management System\bin\Debug\Guna.UI.dll
+C:\Users\PC-LIFE\Desktop\ResturantManagementSystem\Resturant Management System\Resturant Management System\bin\Debug\Guna.UI2.dll
+C:\Users\PC-LIFE\Desktop\ResturantManagementSystem\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.csproj.AssemblyReference.cache
+C:\Users\PC-LIFE\Desktop\ResturantManagementSystem\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Form1.resources
+C:\Users\PC-LIFE\Desktop\ResturantManagementSystem\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.menu.resources
+C:\Users\PC-LIFE\Desktop\ResturantManagementSystem\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Properties.Resources.resources
+C:\Users\PC-LIFE\Desktop\ResturantManagementSystem\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.csproj.GenerateResource.cache
+C:\Users\PC-LIFE\Desktop\ResturantManagementSystem\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.csproj.CoreCompileInputs.cache
+C:\Users\PC-LIFE\Desktop\ResturantManagementSystem\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.csproj.CopyComplete
+C:\Users\PC-LIFE\Desktop\ResturantManagementSystem\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.exe
+C:\Users\PC-LIFE\Desktop\ResturantManagementSystem\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.pdb
+C:\Users\PC-LIFE\Desktop\ResturantManagementSystem\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.UserControl1.resources
+C:\Users\PC-LIFE\Desktop\ResturantManagementSystem\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.home.resources
